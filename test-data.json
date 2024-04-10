@@ -1,0 +1,24 @@
+{
+  "moves": [
+    {
+      "from": "space02",
+      "to": "space13"
+    },
+    {
+      "from": "space11",
+      "to": "space02"
+    },
+    {
+      "from": "space42",
+      "to": "space33"
+    },
+    {
+      "from": "space51",
+      "to": "space33"
+    },
+    {
+      "from": "space33",
+      "to": "space55"
+    }
+  ]
+}
